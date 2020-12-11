@@ -6,14 +6,18 @@ Goal: Do about 40 hours of coding over the course of two weeks in an evenly dist
 Estimated amount of time: 4-6 hours
 
 [Click to accept Week 6 Assessment assignment](https://classroom.github.com/a/c0bhtpog)
-#### PR Code Review (Required)
+
+#### Pull Request Code Review (Required)
 Estimated amount of time: 1 - 2 hours
+
 See Code Review Code of Conduct Below
 
 ## Wildlife Tracker Challenge (Required)
-Estimated amount of time: 6-8 hours
+Estimated amount of time: 6-10 hours
+
 [Click to accept Wildlife Tracker Challenge assignment](https://classroom.github.com/a/JC9XQbfh)
-#### PR Code Review (Required)
+
+#### Pull Request Code Review (Required)
 Estimated amount of time: 1 - 2 hours
 See Code Review Code of Conduct Below
 
@@ -24,7 +28,7 @@ Take some time to boost your ego and show off all your work!
 
 ## Refactor and Beautify a React Project
 Estimated amount of time: 10 - 15 hours
-Here's your chance to revisit those Javascript/React projects, complete them and make them things you want to showcase. Explore styling them and consider refactoring code to be more performant and/or more legible. (Remember: Those commits are also showcase-worthy!)
+Here's your chance to revisit those Javascript/React projects (Tic-Tac-Toe and Dice Roller Challenge), complete them and make them things you want to showcase. Explore styling them and consider refactoring code to be more performant and/or more legible. (Remember: Those refactoring commits are also showcase-worthy!)
 
 # Show and Tell
 Estimated amount of time: 2-3 hours (for preparation)
@@ -42,7 +46,43 @@ Pick one or two of the following topics to help structure your presentation.
    providing feedback?
  - Talk about new vocabulary word(s) you learned/relearned and
    encountered while working on projects.  These can be words you are
-   familiar with in layman's terms but is used differently in the
+   familiar with in layman's terms but are used differently in the
    software/web development context or words that are completely new to you.
  - Talk about refactoring you did. Show your commits. Why were these
    changes important? What problem(s) were you trying you solve?
+   
+# Code Review
+
+Building your code reviewer muscle as a web developer. Know that your input, at any level, is valuable. Code reviewing gives you the opportunity to read code and understand all the things that go into making code beautiful.
+Each person will do two code reviews (one code review on a section of the Week 6 Assessments and one code review on the Wildlife Tracker Challenge).
+Be mindful to promptly pushing your code for assignments because your peers will need time to read your code and provide feedback by the end of the break.
+Below are your code review assignments.
+
+## Code Review Code of Conduct
+- LEARN Code of Conduct
+- [Optional Reading: Code Review Code of Conduct](https://medium.com/front-end-weekly/code-reviews-code-of-conduct-6c78a026ed35)
+- Goal: Provide feedback that may help the author's code be more legible and performant, easy to read, and uses best practices. If the code is outstanding, leave comments that indicate what you appreciated about it.
+- Be respectful. Code is personal because people have worked very hard on it, exercise humbleness in your feedback. Be suggestive, not decisive.
+
+### Code Review Checklist
+Can there be improvements made to: 
+- Variable naming: Are they descriptive and accurate? If not, what is an example of a fitting name?
+- Formatting: Is it help or hurt your ability to understand the code quickly
+- Comments: Are they helpful and accurate? 
+- Logic: Does it work (for all test cases)? Is there another way to achieve the same behavior and what are the pros and cons of doing it that way?
+
+### Code Review Assignments
+
+|                |Assessment PR Reviewed By      |Wildlife Tracker PR Reviewed By|
+|----------------|-------------------------------|-------------------------------|
+|Alan            |Amanda                         |Ryan                           |
+|Alejandro       |Ryan                           |Matt                           |
+|Amanda          |Sami                           |Summer                         |
+|Chris           |Filippo                        |Priscila                       |
+|Filippo         |Summer                         |Amanda                         |
+|Matt            |Alejandro                      |Sami                           |
+|Priscila        |Chris                          |Raul                           |
+|Raul            |Matt                           |Alan                           |
+|Ryan            |Alan                           |Filippo                        |
+|Sami            |Priscila                       |Alejandro                      |
+|Summer          |Raul                           |Chris                          |
