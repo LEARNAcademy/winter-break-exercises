@@ -24,10 +24,12 @@ See Code Review Section Below
 
 ## Portfolio
 Estimated amount of time: 10 - 15 hours
+
 Take some time to boost your ego and show off all your work!
+
 [Portfolio Resources](https://github.com/LEARNAcademy/Syllabus/blob/master/tools_and_resources/portfolio.md)
 
-## Refactor and Beautify a React Project
+## Refactor and Beautify a Javascript/React Project
 Estimated amount of time: 10 - 15 hours
 
 Here's your chance to revisit those Javascript/React projects (Tic-Tac-Toe and Dice Roller Challenge), complete them and make them things you want to showcase. Explore styling them and consider refactoring code to be more performant and/or more legible. (Remember: Those refactoring commits are also showcase-worthy!)
