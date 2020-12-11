@@ -70,7 +70,7 @@ Consider improvements that can be made to:
 - Variable naming: Are they descriptive and accurate? If not, what is an example of a fitting name?
 - Formatting: Is it help or hurt your ability to understand the code quickly
 - Comments: Are they helpful and accurate? 
-- Logic: Does it work (for all test cases)? Is there another way to achieve the same behavior and what are the pros and cons of doing it that way?
+- Logic: Is there another way to achieve the same behavior and what are the pros and cons of doing it that way?
 
 ### Code Review Assignments
 
