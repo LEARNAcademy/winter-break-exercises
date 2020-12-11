@@ -1,6 +1,9 @@
 # Winter Break Exercises
 As Bryan mentioned, after the winter break, you'll likely have your first experience with stepping away from coding long enough to feel a little disoriented when you come back to it.  Keep in mind that it's important to strike the balance between going cold turkey on coding and burning out from self-prescribed three-day hackathons.
-Goal: Do about 40 hours of coding over the course of two weeks in an evenly distributed manner. Avoid ten hours of code in four days!
+
+Goal: Do about 40 hours of coding over the course of the next weeks in an evenly distributed manner. Avoid ten hours of code in four days!
+
+**Required Assignments Due January 4th 2021**
 
 ## Week 6 Assessment (Required)
 Estimated amount of time: 4-6 hours
@@ -32,12 +35,14 @@ Take some time to boost your ego and show off all your work!
 ## Refactor and Beautify a Javascript/React Project
 Estimated amount of time: 10 - 15 hours
 
-Here's your chance to revisit those Javascript/React projects (Tic-Tac-Toe and Dice Roller Challenge), complete them and make them things you want to showcase. Explore styling them and consider refactoring code to be more performant and/or more legible. (Remember: Those refactoring commits are also showcase-worthy!)
+Here's your chance to revisit those Javascript/React projects (Tic-Tac-Toe and Dice Roller Challenge), complete them and make them things you want to showcase in your portfolio. Explore styling them and consider refactoring code to be more performant and/or more legible. 
+
+Remember: Those refactoring commits are also showcase-worthy in interviews too!
 
 # Show and Tell
 Estimated amount of time: 2-3 hours (for preparation)
 
-Prepare a three minute show and tell for the cohort.
+Prepare a **three-minute** show and tell for the cohort.
 Pick one or two of the following topics to help structure your presentation.
 
 #### Topics
@@ -60,7 +65,7 @@ Pick one or two of the following topics to help structure your presentation.
 
 Building your code reviewer muscle as a web developer. Know that your input, at any level, is valuable. Code reviewing gives you the opportunity to read code and understand all the things that go into making code beautiful.
 Each person will do two code reviews (one code review on a section of the Week 6 Assessments and one code review on the Wildlife Tracker Challenge).
-Be mindful to promptly pushing your code for assignments because your peers will need time to read your code and provide feedback by the end of the break.
+Be mindful to promptly pushing your code for assignments because **your peers will need time to read your code and provide feedback by the end of the break.**
 Below are your code review assignments.
 
 ## Code Review Code of Conduct
@@ -68,12 +73,12 @@ Below are your code review assignments.
 - [Optional Reading: Code Review Code of Conduct](https://medium.com/front-end-weekly/code-reviews-code-of-conduct-6c78a026ed35)
 - Goal: Provide feedback that may help the author's code be more legible and performant, easy to read, and uses best practices. If the code is outstanding, leave comments that indicate what you appreciated about it.
 - Be respectful. Code is personal because people have worked very hard on it, exercise humbleness in your feedback. Be suggestive, not decisive.
-- General expectation of minimum three comments on Github pull requests for each assignment.
+- **General expectation of minimum three comments on each Github pull request.**
 
 ### Code Review Checklist
 Consider improvements that can be made to: 
-- Variable naming: Are they descriptive and accurate? If not, what is an example of a fitting name?
-- Formatting: Is it help or hurt your ability to understand the code quickly
+- Variable naming: Are they descriptive and accurate? If not, what is an example of a fitting name? Does it help with understanding the code?
+- Formatting: Is it helping or hurting your ability to understand the code quickly?
 - Comments: Are they helpful and accurate? 
 - Logic: Is there another way to achieve the same behavior? What are the pros and cons of doing it that way?
 - Compliments: What does the code do well?
