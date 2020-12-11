@@ -28,10 +28,12 @@ Take some time to boost your ego and show off all your work!
 
 ## Refactor and Beautify a React Project
 Estimated amount of time: 10 - 15 hours
+
 Here's your chance to revisit those Javascript/React projects (Tic-Tac-Toe and Dice Roller Challenge), complete them and make them things you want to showcase. Explore styling them and consider refactoring code to be more performant and/or more legible. (Remember: Those refactoring commits are also showcase-worthy!)
 
 # Show and Tell
 Estimated amount of time: 2-3 hours (for preparation)
+
 Prepare a three minute show and tell for the cohort.
 Pick one or two of the following topics to help structure your presentation.
 
@@ -70,7 +72,7 @@ Consider improvements that can be made to:
 - Variable naming: Are they descriptive and accurate? If not, what is an example of a fitting name?
 - Formatting: Is it help or hurt your ability to understand the code quickly
 - Comments: Are they helpful and accurate? 
-- Logic: Is there another way to achieve the same behavior and what are the pros and cons of doing it that way?
+- Logic: Is there another way to achieve the same behavior? What are the pros and cons of doing it that way?
 
 ### Code Review Assignments
 
