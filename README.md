@@ -5,15 +5,14 @@ Goal: Do about 40 hours of coding over the course of two weeks in an evenly dist
 ## Week 6 Assessment (Required)
 Estimated amount of time: 4-6 hours
 
-[Week 6 Assessment](https://github.com/learn-academy-2020-echo/Week-6-Assessment)
-This 
+[Click to accept Week 6 Assessment assignment](https://classroom.github.com/a/c0bhtpog)
 #### PR Code Review (Required)
 Estimated amount of time: 1 - 2 hours
 See Code Review Code of Conduct Below
 
 ## Wildlife Tracker Challenge (Required)
 Estimated amount of time: 6-8 hours
-[Wildlife Tracker Challenge](https://github.com/LEARNAcademy/Syllabus/blob/master/rails_fullstack/wildlife_tracker_challenge.md)
+[Click to accept Wildlife Tracker Challenge assignment](https://classroom.github.com/a/JC9XQbfh)
 #### PR Code Review (Required)
 Estimated amount of time: 1 - 2 hours
 See Code Review Code of Conduct Below
@@ -28,6 +27,7 @@ Estimated amount of time: 10 - 15 hours
 Here's your chance to revisit those Javascript/React projects, complete them and make them things you want to showcase. Explore styling them and consider refactoring code to be more performant and/or more legible. (Remember: Those commits are also showcase-worthy!)
 
 # Show and Tell
+Estimated amount of time: 2-3 hours (for preparation)
 Prepare a three minute show and tell for the cohort.
 Pick one or two of the following topics to help structure your presentation.
 
