@@ -10,7 +10,7 @@ Estimated amount of time: 4-6 hours
 #### Pull Request Code Review (Required)
 Estimated amount of time: 1 - 2 hours
 
-See Code Review Code of Conduct Below
+See Code Review Section Below
 
 ## Wildlife Tracker Challenge (Required)
 Estimated amount of time: 6-10 hours
@@ -19,7 +19,8 @@ Estimated amount of time: 6-10 hours
 
 #### Pull Request Code Review (Required)
 Estimated amount of time: 1 - 2 hours
-See Code Review Code of Conduct Below
+
+See Code Review Section Below
 
 ## Portfolio
 Estimated amount of time: 10 - 15 hours
