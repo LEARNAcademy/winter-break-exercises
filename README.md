@@ -63,9 +63,10 @@ Below are your code review assignments.
 - [Optional Reading: Code Review Code of Conduct](https://medium.com/front-end-weekly/code-reviews-code-of-conduct-6c78a026ed35)
 - Goal: Provide feedback that may help the author's code be more legible and performant, easy to read, and uses best practices. If the code is outstanding, leave comments that indicate what you appreciated about it.
 - Be respectful. Code is personal because people have worked very hard on it, exercise humbleness in your feedback. Be suggestive, not decisive.
+- General expectation of minimum three comments on Github pull requests for each assignment.
 
 ### Code Review Checklist
-Can there be improvements made to: 
+Consider improvements that can be made to: 
 - Variable naming: Are they descriptive and accurate? If not, what is an example of a fitting name?
 - Formatting: Is it help or hurt your ability to understand the code quickly
 - Comments: Are they helpful and accurate? 
@@ -75,14 +76,14 @@ Can there be improvements made to:
 
 |                |Assessment PR Reviewed By      |Wildlife Tracker PR Reviewed By|
 |----------------|-------------------------------|-------------------------------|
-|Alan            |Amanda                         |Ryan                           |
-|Alejandro       |Ryan                           |Matt                           |
-|Amanda          |Sami                           |Summer                         |
-|Chris           |Filippo                        |Priscila                       |
-|Filippo         |Summer                         |Amanda                         |
-|Matt            |Alejandro                      |Sami                           |
-|Priscila        |Chris                          |Raul                           |
-|Raul            |Matt                           |Alan                           |
-|Ryan            |Alan                           |Filippo                        |
-|Sami            |Priscila                       |Alejandro                      |
-|Summer          |Raul                           |Chris                          |
+|Alan            |Amanda                         |Ryan (1st Story)               |
+|Alejandro       |Ryan                           |Matt (2nd Story)               |
+|Amanda          |Sami                           |Summer (3rd Story)             |
+|Chris           |Filippo                        |Priscila (4th Story)           |
+|Filippo         |Summer                         |Amanda (5th Story)             |
+|Matt            |Alejandro                      |Sami (6th Story)               |
+|Priscila        |Chris                          |Raul (7th Story)               |
+|Raul            |Matt                           |Alan (8th Story)               |
+|Ryan            |Alan                           |Filippo (9th Story)            |
+|Sami            |Priscila                       |Alejandro (1st Story)          |
+|Summer          |Raul                           |Chris (2nd Story)              |
