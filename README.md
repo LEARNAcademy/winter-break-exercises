@@ -3,28 +3,28 @@ As Bryan mentioned, after the winter break, you'll likely have your first experi
 Goal: Do about 40 hours of coding over the course of two weeks in an evenly distributed manner. Avoid ten hours of code in four days!
 
 ## Week 6 Assessment (Required)
-Estimated amount of time: 2-3 hours
+Estimated amount of time: 4-6 hours
 
 [Week 6 Assessment](https://github.com/learn-academy-2020-echo/Week-6-Assessment)
-Is another link that needs to be created through the classroom?
+This 
 #### PR Code Review (Required)
-Estimated amount of time: 30 minutes - 1 hour
-See Code Review Code of Conduct
+Estimated amount of time: 1 - 2 hours
+See Code Review Code of Conduct Below
 
 ## Wildlife Tracker Challenge (Required)
-Estimated amount of time: 2-3 hours
+Estimated amount of time: 6-8 hours
 [Wildlife Tracker Challenge](https://github.com/LEARNAcademy/Syllabus/blob/master/rails_fullstack/wildlife_tracker_challenge.md)
 #### PR Code Review (Required)
-Estimated amount of time: 30 minutes - 1 hour
-See Code Review Code of Conduct
+Estimated amount of time: 1 - 2 hours
+See Code Review Code of Conduct Below
 
 ## Portfolio
-Estimated amount of time: 
+Estimated amount of time: 10 - 15 hours
 Take some time to boost your ego and show off all your work!
 [Portfolio Resources](https://github.com/LEARNAcademy/Syllabus/blob/master/tools_and_resources/portfolio.md)
 
 ## Refactor and Beautify a React Project
-Estimated amount of time: 5-∞ hours
+Estimated amount of time: 10 - 15 hours
 Here's your chance to revisit those Javascript/React projects, complete them and make them things you want to showcase. Explore styling them and consider refactoring code to be more performant and/or more legible. (Remember: Those commits are also showcase-worthy!)
 
 # Show and Tell
