@@ -74,6 +74,7 @@ Consider improvements that can be made to:
 - Formatting: Is it help or hurt your ability to understand the code quickly
 - Comments: Are they helpful and accurate? 
 - Logic: Is there another way to achieve the same behavior? What are the pros and cons of doing it that way?
+- Compliments: What does the code do well?
 
 ### Code Review Assignments
 
