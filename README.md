@@ -62,7 +62,7 @@ Pick one or two of the following topics to help structure your presentation.
    changes important? What problem(s) were you trying you solve?
    
 # Code Review
-
+**Make sure to create a branch on your assignment so that you can create a PR on GitHub.**
 Building your code reviewer muscle as a web developer. Know that your input, at any level, is valuable. Code reviewing gives you the opportunity to read code and understand all the things that go into making code beautiful.
 Each person will do two code reviews (one code review on a section of the Week 6 Assessments and one code review on the Wildlife Tracker Challenge).
 Be mindful to promptly pushing your code for assignments because **your peers will need time to read your code and provide feedback by the end of the break.**
